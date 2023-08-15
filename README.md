@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tariq-Anjum
-- 👀 I’m interested in Pythoon, Data Science, Machine Learning, Artificial Intelligence
+- 👀 I’m interested in Python, Data Science, Machine Learning, Artificial Intelligence
 - 🌱 I’m currently learning Data Science and Machine Learning with Python
 - 💞️ I’m looking to collaborate on all mode projects
 - 📫 How to reach me ... dooonster@gmail.com
