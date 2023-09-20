@@ -2,6 +2,7 @@
 - 👀 I’m interested in Python, Data Science, Machine Learning, Artificial Intelligence
 - 🌱 I’m currently learning Data Science and Machine Learning with Python
 - 💞️ I’m looking to collaborate on all mode projects
+- 💯 I want to be "The Scientist"
 - 📫 How to reach me ... dooonster@gmail.com
 
 <!---
